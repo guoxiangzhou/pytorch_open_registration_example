@@ -10,3 +10,10 @@ Example of using pytorch's open device registration API. It covers:
 (4) Registering a custom device guard
 
 This repo should be run using the latest pytorch nightly. If it fails on the latest nightly, please post an issue and I'll take a look!
+
+## how to run
+
+install torch in python
+
+run: `python open_registration_example.py`
+
